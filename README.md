@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitshandilya01&label=Profile%20views&color=0e75b6&style=flat" alt="rohitshandilya01" /> </p>
 
-- 🌱 I’m currently Mastering **Frontend**
+- 🚀 **Full Stack Developer**
 
 - 📫 How to reach me **rohitshah9958@gmail.com**
 
