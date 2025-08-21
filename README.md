@@ -30,9 +30,9 @@ Here are some of the technologies and tools I work with:
 
 Let's connect and grow together!
 
-- 🌐 [LinkedIn](https://linkedin.com/in/@rohitshah9958)  
-- 📸 [Instagram]https://instagram.com/@i_rohitshandilya)  
-- ▶️ [YouTube](https://www.youtube.com/c/@rohitshandilya0011)
+- 🌐 [LinkedIn](<a href="https://linkedin.com/in/@rohitshah9958" target="blank"></a>)  
+- 📸 [Instagram](<a href="https://instagram.com/@i_rohitshandilya" target="blank"></a>)  
+- ▶️ [YouTube](<a href="https://www.youtube.com/c/@rohitshandilya0011" target="blank"></a>)
 
 ---
 
