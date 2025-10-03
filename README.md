@@ -24,15 +24,8 @@ Here are some of the technologies and tools I work with:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitshandilya01&label=Profile%20views&color=0e75b6&style=flat" alt="rohitshandilya01" /> </p>
 
 
----
 
-## 📫 Connect with Me
 
-Let's connect and grow together!
-
-- 🌐 [LinkedIn](<a href="https://linkedin.com/in/@rohitshah9958" target="blank"></a>)  
-- 📸 [Instagram](<a href="https://instagram.com/@i_rohitshandilya" target="blank"></a>)  
-- ▶️ [YouTube](<a href="https://www.youtube.com/c/@rohitshandilya0011" target="blank"></a>)
 
 ---
 
